@@ -10,5 +10,5 @@ a solution that could provide maximum penetration in the market for Draw IT or L
 The entire process was rather abstract but provided a basic basis for the types of situations that are faced
 daily when trying meet a customers needs.
 
-The approach I took to this problem was a matter of the synthesis of a vast amount of testual information
+The approach I took to this problem was a matter of the synthesis of a vast amount of textual information
 into a summarized form that met the customers needs and desires.
