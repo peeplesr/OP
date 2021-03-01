@@ -1,5 +1,5 @@
 # OP
-The requirements for this project were from a gaming comapny that wanted to deploy a game over a web channel.
+The requirements for this project were from a gaming company that wanted to deploy a game over a web channel.
 Their current delivery was via android devices, but hey wanted to expand to get greater acceptance.
 The project entailed delivery of an architecture that would llow their game to gain penetration via
 a web serice to as many channels as possible.
